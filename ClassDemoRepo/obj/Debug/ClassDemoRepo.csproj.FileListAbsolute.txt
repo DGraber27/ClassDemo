@@ -1,0 +1,6 @@
+D:\Coding_Trash\ClassesDemo\ClassDemoRepo\bin\Debug\ClassDemoRepo.dll
+D:\Coding_Trash\ClassesDemo\ClassDemoRepo\bin\Debug\ClassDemoRepo.pdb
+D:\Coding_Trash\ClassesDemo\ClassDemoRepo\obj\Debug\ClassDemoRepo.csprojAssemblyReference.cache
+D:\Coding_Trash\ClassesDemo\ClassDemoRepo\obj\Debug\ClassDemoRepo.csproj.CoreCompileInputs.cache
+D:\Coding_Trash\ClassesDemo\ClassDemoRepo\obj\Debug\ClassDemoRepo.dll
+D:\Coding_Trash\ClassesDemo\ClassDemoRepo\obj\Debug\ClassDemoRepo.pdb

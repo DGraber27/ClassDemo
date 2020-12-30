@@ -1,0 +1,10 @@
+D:\Coding_Trash\ClassesDemo\ClassesDemo\bin\Debug\ClassesDemo.exe.config
+D:\Coding_Trash\ClassesDemo\ClassesDemo\bin\Debug\ClassesDemo.exe
+D:\Coding_Trash\ClassesDemo\ClassesDemo\bin\Debug\ClassesDemo.pdb
+D:\Coding_Trash\ClassesDemo\ClassesDemo\obj\Debug\ClassesDemo.csprojAssemblyReference.cache
+D:\Coding_Trash\ClassesDemo\ClassesDemo\obj\Debug\ClassesDemo.csproj.CoreCompileInputs.cache
+D:\Coding_Trash\ClassesDemo\ClassesDemo\obj\Debug\ClassesDemo.exe
+D:\Coding_Trash\ClassesDemo\ClassesDemo\obj\Debug\ClassesDemo.pdb
+D:\Coding_Trash\ClassesDemo\ClassesDemo\bin\Debug\ClassDemoRepo.dll
+D:\Coding_Trash\ClassesDemo\ClassesDemo\bin\Debug\ClassDemoRepo.pdb
+D:\Coding_Trash\ClassesDemo\ClassesDemo\obj\Debug\ClassesDemo.csproj.CopyComplete
